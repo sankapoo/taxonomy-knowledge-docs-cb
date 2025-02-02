@@ -17,7 +17,21 @@ seed_examples:
           How can I access the CINB site?
         answer: |
           Visit the SBI online banking site at https://www.onlinesbi.sbi and click on 'Corporate Banking' above the login option.
-
+  - context: |
+      The history of Corporate Internet Banking (CINB) in SBI dates back to the early 2000s when banks worldwide started implementing online banking solutions for businesses. SBI gradually expanded its digital offerings to cater to different types of corporate clients.
+    questions_and_answers:
+      - question: |
+          When did SBI introduce Corporate Internet Banking?
+        answer: |
+          SBI introduced Corporate Internet Banking in the early 2000s to cater to the growing demand for online banking services for businesses.
+      - question: |
+          How has CINB evolved over the years?
+        answer: |
+          CINB has evolved with enhanced security features, role-based access, and additional transaction capabilities tailored for different corporate needs.
+      - question: |
+          Why was Corporate Internet Banking introduced?
+        answer: |
+          It was introduced to provide businesses with secure and convenient online banking services, reducing dependency on branch visits.
   - context: |
       SBI offers various products under CINB to suit the needs of different organizations:
       - Saral: Simplified single-user transactional product for sole proprietors and micro-enterprises.
@@ -38,7 +52,6 @@ seed_examples:
           Can Khata be upgraded to Vyapaar or Vistaar?
         answer: |
           No, Khata cannot be upgraded to transactional products. A separate registration for Vyapaar or Vistaar is required.
-
   - context: |
       CINB offers robust security features like SSL encryption and role-based access to ensure safety. It allows corporates to manage user access dynamically.
     questions_and_answers:
@@ -54,7 +67,6 @@ seed_examples:
           Does CINB support bulk transaction uploads?
         answer: |
           Yes, bulk upload for salary, vendor payments, and tax payments is supported in Vyapaar and Vistaar.
-
   - context: |
       Corporates can make various payments using CINB:
       - Fund transfers within SBI and other banks.
@@ -74,7 +86,6 @@ seed_examples:
           Can CINB handle government transactions?
         answer: |
           Yes, CINB supports payments for taxes, excise duty, customs duty, and more for government transactions.
-
   - context: |
       Corporate Internet Banking allows various roles with different access levels:
       - Regulator: Defines the overall profile of the corporate but cannot transact.
@@ -96,7 +107,6 @@ seed_examples:
           Can bulk transactions be reviewed after processing?
         answer: |
           Yes, the Auditor role in CINB allows post-transaction review for audit purposes.
-
 document_outline: |
   Corporate Internet Banking (CINB) by SBI facilitates online banking for corporates with features tailored to various organizational needs.
 document:
