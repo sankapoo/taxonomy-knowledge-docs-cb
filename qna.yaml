@@ -101,7 +101,7 @@ document_outline: |
   Corporate Internet Banking (CINB) by SBI facilitates online banking for corporates with features tailored to various organizational needs.
 document:
   repo: https://github.com/sankapoo/taxonomy-knowledge-docs-cb.git
-  commit: 952f8ec54290133fe04794719d21f2de78ec4b28
+  commit: 0f016cfba903a72a50dd63634be9e09796a7b2f5
   patterns:
     - corporate_internet_banking.md
     - corporate_internet_banking.pdf
