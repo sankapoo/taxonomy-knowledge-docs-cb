@@ -1,3 +1,5 @@
+In the 1990s, SBI began its digital transformation journey by introducing basic electronic banking services. During this period, the bank focused on automating its operations and offering services like ATMs and phone banking. However, the concept of internet banking was still in its infancy, and corporate banking largely relied on traditional methods such as in-branch transactions and paper-based processes.
+
 SBI Corporate Banking
 
 State Bank of India (SBI) Corporate Banking provides a comprehensive suite of banking services tailored to meet the needs of non-individual customers, including firms, companies, trusts, partnerships, and proprietorship concerns. SBI Corporate Internet Banking (CINB) is a key offering that enables corporate customers to conduct banking activities online, anywhere and anytime, with the convenience and security of the internet.
