@@ -1,120 +1,96 @@
 version: 3
-domain: Banking/CorporateInternetBanking
-created_by: sankapoo
-seed_examples:
-  - context: |
-      Corporate Internet Banking (CINB) of State Bank of India is the channel which facilitates Corporate Customers (any non-individual customer such as firms, companies, trusts, partnerships, proprietorship concerns, etc.) to carry out banking activities online anywhere and anytime, aided with the power and convenience of the internet.
-    questions_and_answers:
-      - question: |
-          What is Corporate Internet Banking (CINB)?
-        answer: |
-          Corporate Internet Banking (CINB) is the online banking channel by SBI for corporate customers to carry out banking activities anytime.
-      - question: |
-          Who can avail Corporate Internet Banking?
-        answer: |
-          Any non-individual customer such as a firm, company, trust, partnership, or government organization maintaining an account with SBI can avail CINB.
-      - question: |
-          How can I access the CINB site?
-        answer: |
-          Visit the SBI online banking site at https://www.onlinesbi.sbi and click on 'Corporate Banking' above the login option.
-  - context: |
-      The history of Corporate Internet Banking (CINB) in SBI dates back to the early 2000s when banks worldwide started implementing online banking solutions for businesses. SBI gradually expanded its digital offerings to cater to different types of corporate clients.
-    questions_and_answers:
-      - question: |
-          When did SBI introduce Corporate Internet Banking?
-        answer: |
-          SBI introduced Corporate Internet Banking in the early 2000s to cater to the growing demand for online banking services for businesses.
-      - question: |
-          How has CINB evolved over the years?
-        answer: |
-          CINB has evolved with enhanced security features, role-based access, and additional transaction capabilities tailored for different corporate needs.
-      - question: |
-          Why was Corporate Internet Banking introduced?
-        answer: |
-          It was introduced to provide businesses with secure and convenient online banking services, reducing dependency on branch visits.
-  - context: |
-      SBI offers various products under CINB to suit the needs of different organizations:
-      - Saral: Simplified single-user transactional product for sole proprietors and micro-enterprises.
-      - Vyapaar: Multi-user transactional product for SMEs with accounts at a single branch.
-      - Vistaar: Comprehensive suite for large corporates with discretionary user access for accounts at multiple branches.
-      - Khata: Single-user enquiry product for accounts at one branch.
-      - Khata Plus: Multi-user enquiry product for accounts across multiple branches.
-    questions_and_answers:
-      - question: |
-          What are the different CINB products offered by SBI?
-        answer: |
-          CINB products include Saral, Vyapaar, Vistaar, Khata, and Khata Plus, catering to various organizational needs.
-      - question: |
-          How does Vyapaar differ from Vistaar in CINB?
-        answer: |
-          Vyapaar is for SMEs with accounts at a single branch, while Vistaar supports large corporates with accounts across multiple branches.
-      - question: |
-          Can Khata be upgraded to Vyapaar or Vistaar?
-        answer: |
-          No, Khata cannot be upgraded to transactional products. A separate registration for Vyapaar or Vistaar is required.
-  - context: |
-      CINB offers robust security features like SSL encryption and role-based access to ensure safety. It allows corporates to manage user access dynamically.
-    questions_and_answers:
-      - question: |
-          How secure is CINB?
-        answer: |
-          CINB is highly secure with SSL encryption, verisign certification, and role-based access to prevent unauthorized access.
-      - question: |
-          Can roles like Maker and Authorizer be configured in CINB?
-        answer: |
-          Yes, CINB allows configuring roles like Maker and Authorizer to ensure secure transaction processing.
-      - question: |
-          Does CINB support bulk transaction uploads?
-        answer: |
-          Yes, bulk upload for salary, vendor payments, and tax payments is supported in Vyapaar and Vistaar.
-  - context: |
-      Corporates can make various payments using CINB:
-      - Fund transfers within SBI and other banks.
-      - Government and tax payments.
-      - Merchant payments and bill payments.
-      - Supplier payments and fee collections for educational institutions.
-    questions_and_answers:
-      - question: |
-          What types of payments can be made using CINB?
-        answer: |
-          Payments include fund transfers, tax payments, supplier payments, merchant payments, and fee collections.
-      - question: |
-          Can charitable institutions collect donations through CINB?
-        answer: |
-          Yes, reputed institutions can use the State Bank collect facility for donation collection.
-      - question: |
-          Can CINB handle government transactions?
-        answer: |
-          Yes, CINB supports payments for taxes, excise duty, customs duty, and more for government transactions.
-  - context: |
-      Corporate Internet Banking allows various roles with different access levels:
-      - Regulator: Defines the overall profile of the corporate but cannot transact.
-      - Administrator: Manages users and assigns access rights.
-      - Maker: Creates transactions.
-      - Authorizer: Approves transactions created by the Maker.
-      - Uploader: Uploads bulk transactions.
-      - Auditor: Reviews transactions after they are processed.
-    questions_and_answers:
-      - question: |
-          What is the role of an Administrator in CINB?
-        answer: |
-          The Administrator manages users, assigns access rights, and defines financial powers within CINB.
-      - question: |
-          What is the difference between a Maker and an Authorizer in CINB?
-        answer: |
-          The Maker creates transactions, while the Authorizer approves them before processing.
-      - question: |
-          Can bulk transactions be reviewed after processing?
-        answer: |
-          Yes, the Auditor role in CINB allows post-transaction review for audit purposes.
-document_outline: |
-  Corporate Internet Banking (CINB) by SBI facilitates online banking for corporates with features tailored to various organizational needs.
-document:
-  repo: https://github.com/sankapoo/taxonomy-knowledge-docs-cb.git
-  commit: 17371800d6fd9638dbba5fc4dd1e02ef610561ad
-  patterns:
-    - corporate_internet_banking.md
-    - corporate_internet_banking.pdf
-    - "*.md"
-    - "*.pdf"
-    - "banking/*.md"
+  domain: Banking/CorporateInternetBanking
+  created_by: sankapoo
+  seed_examples:
+    - context: |
+        The State Bank of India (SBI) Corporate Internet Banking (CINB) provides a digital platform for businesses to manage financial transactions efficiently. It supports multiple user roles and offers various transaction and security features.
+      questions_and_answers:
+        - question: |
+            What is SBI Corporate Internet Banking (CINB)?
+          answer: |
+            SBI Corporate Internet Banking (CINB) is an online banking platform that allows corporate customers to manage their banking transactions securely and efficiently.
+        - question: |
+            Who can use CINB?
+          answer: |
+            CINB is available for non-individual customers such as firms, companies, trusts, partnerships, proprietorships, and government organizations.
+        - question: |
+            What are the key features of CINB?
+          answer: |
+            CINB offers multi-user access, secure transactions, customizable permissions, bulk transaction facilities, API banking, and government transaction support.
+    - context: |
+        SBI provides multiple CINB products to cater to different corporate banking needs. These products range from single-user platforms to multi-user transactional solutions.
+      questions_and_answers:
+        - question: |
+            What are the different CINB products offered by SBI?
+          answer: |
+            SBI offers Saral, Two User, Vyapaar, Vistaar, Khata, and Khata Plus under CINB, each catering to different business needs.
+        - question: |
+            What is the difference between Vyapaar and Vistaar?
+          answer: |
+            Vyapaar is designed for SMEs with accounts at a single branch, while Vistaar is for large corporates with accounts across multiple branches.
+    - context: |
+        CINB ensures the highest level of security through multiple layers of authentication, encryption, and role-based access control.
+      questions_and_answers:
+        - question: |
+            How secure is CINB?
+          answer: |
+            CINB employs 256-bit SSL encryption, EV-SSL certification, multi-level authorization, and OTP-based authentication to ensure security.
+        - question: |
+            Can roles be customized in CINB?
+          answer: |
+            Yes, CINB allows administrators to define user roles and set transaction limits dynamically.
+    - context: |
+        CINB provides a wide range of banking services, including fund transfers, bulk transactions, and government-related payments.
+      questions_and_answers:
+        - question: |
+            What transactions can be performed using CINB?
+          answer: |
+            CINB supports fund transfers, tax payments, bulk salary and vendor payments, e-collections, and forex transactions.
+        - question: |
+            Does CINB support bulk uploads?
+          answer: |
+            Yes, CINB allows bulk uploads for salary processing, vendor payments, and tax payments.
+    - context: |
+        SBI continually enhances CINB with new features and security improvements to offer a seamless corporate banking experience.
+      questions_and_answers:
+        - question: |
+            What are the future enhancements planned for CINB?
+          answer: |
+            SBI plans to integrate more government payment systems, improve the user interface, enhance mobile accessibility, and introduce blockchain-based security measures.
+        - question: |
+            Can CINB be accessed on mobile devices?
+          answer: |
+            Yes, SBI is working on improving mobile compatibility for CINB to enhance user accessibility.
+    - context: |
+        CINB allows corporate users to assign different roles to employees, ensuring proper segregation of duties and security.
+      questions_and_answers:
+        - question: |
+            What are the different user roles available in CINB?
+          answer: |
+            CINB provides roles like Regulator, Administrator, Maker, Authorizer, Uploader, Auditor, and Super Enquirer to manage transactions securely.
+        - question: |
+            Can multiple users be assigned different levels of access?
+          answer: |
+            Yes, CINB allows multiple users with varying levels of access, enabling better control over corporate transactions.
+    - context: |
+        SBI offers various bulk payment solutions through CINB, enabling businesses to handle large-scale transactions efficiently.
+      questions_and_answers:
+        - question: |
+            How does CINB support bulk transactions?
+          answer: |
+            CINB supports bulk uploads for salary payments, vendor transactions, and tax payments, ensuring efficient large-scale fund transfers.
+        - question: |
+            Can CINB be integrated with accounting software?
+          answer: |
+            Yes, CINB offers API integrations that allow seamless connectivity with enterprise accounting and ERP systems.
+  document_outline: |
+    SBI Corporate Internet Banking (CINB) offers a comprehensive online banking solution with secure transactions, customizable user roles, and a variety of financial services for corporate customers.
+  document:
+    repo: https://github.com/sankapoo/taxonomy-knowledge-docs-cb.git
+    commit: 17371800d6fd9638dbba5fc4dd1e02ef610561ad
+    patterns:
+      - corporate_internet_banking.md
+      - corporate_internet_banking.pdf
+      - "*.md"
+      - "*.pdf"
+      - "banking/*.md"
