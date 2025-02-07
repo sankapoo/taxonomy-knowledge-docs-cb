@@ -1,209 +1,209 @@
-Early Beginnings (1990s)
-In the 1990s, SBI began its digital transformation journey by introducing basic electronic banking services. During this period, the bank focused on automating its operations and offering services like ATMs and phone banking. However, the concept of internet banking was still in its infancy, and corporate banking largely relied on traditional methods such as in-branch transactions and paper-based processes.
+SBI Corporate Banking
 
-Introduction of Internet Banking (Early 2000s)
-SBI launched its internet banking platform in the early 2000s, marking a significant milestone in its digital journey. Initially, the platform catered primarily to retail customers, offering services like balance inquiries, fund transfers, and bill payments. Recognizing the growing demand for digital solutions among corporate clients, SBI soon extended its internet banking services to businesses.
+State Bank of India (SBI) Corporate Banking provides a comprehensive suite of banking services tailored to meet the needs of non-individual customers, including firms, companies, trusts, partnerships, and proprietorship concerns. SBI Corporate Internet Banking (CINB) is a key offering that enables corporate customers to conduct banking activities online, anywhere and anytime, with the convenience and security of the internet.
 
-The Corporate Internet Banking (CIB) platform was designed to meet the complex needs of businesses, enabling them to manage their accounts, initiate transactions, and access financial reports online. This move significantly reduced the reliance on physical branches and streamlined banking operations for corporate clients.
+Overview
 
-Expansion and Enhancements (Mid-2000s to 2010s)
-Over the years, SBI continuously upgraded its CIB platform to offer a more comprehensive suite of services. Key enhancements included:
+SBI Corporate Internet Banking (CINB) is designed to cater to the diverse needs of corporate customers, ranging from small enterprises to large conglomerates. The platform offers a variety of products and services, including fund transfers, tax payments, supplier payments, and bulk transaction facilities. CINB ensures high security with advanced encryption and multi-level authorization processes.
 
-Multi-Level Authorization: To ensure security and compliance, SBI introduced multi-level authorization for corporate transactions, allowing businesses to define roles and permissions for their employees.
+Key Features:
 
-Integration with ERP Systems: SBI integrated its CIB platform with Enterprise Resource Planning (ERP) systems, enabling seamless data flow between corporate clients' internal systems and the bank.
+Multi-user access: Allows multiple users with varying levels of access and transaction rights.
 
-Customized Solutions: SBI offered tailored solutions for different types of businesses, including SMEs, large corporations, and government entities. Features like bulk payment processing, payroll management, and tax payments were added to cater to specific needs.
+Secure transactions: Utilizes 256-bit SSL encryption and EV-SSL certification for secure online transactions.
 
-Focus on Security and Compliance
-As cyber threats became more sophisticated, SBI prioritized the security of its CIB platform. The bank implemented advanced security measures, including:
+Customizable permissions: Corporate administrators can define user roles and permissions dynamically.
 
-Two-factor authentication (2FA) for login and transactions.
+Bulk transaction facilities: Supports bulk uploads for salary payments, vendor payments, and tax payments.
 
-Encryption of data to protect sensitive information.
+Government transactions: Enables payments for direct taxes, excise duties, customs duties, and other government-related transactions.
 
-Regular security audits and updates to address vulnerabilities.
+Real-time monitoring: Provides instant transaction tracking and reporting.
 
-SBI also ensured compliance with regulatory requirements, such as the Reserve Bank of India's (RBI) guidelines on internet banking.
+Auto reconciliation: Simplifies account management by integrating with ERP systems.
 
-Recent Developments (2020s)
-In the 2020s, SBI further enhanced its CIB platform to align with the evolving needs of businesses. Key developments included:
+API Banking: Offers API integration for seamless business transactions.
 
-Mobile Banking Integration: SBI introduced mobile-friendly features, allowing corporate clients to access banking services on the go.
+History
 
-API Banking: The bank embraced open banking by offering APIs (Application Programming Interfaces) to enable seamless integration with third-party applications and fintech solutions.
+SBI introduced Corporate Internet Banking to streamline banking operations for corporate clients. Over the years, the platform has evolved to include advanced features such as bulk transaction processing, e-collection facilities, and integration with government payment systems. The introduction of products like Vyapaar and Vistaar has further enhanced the platform's capability to serve large and complex corporate entities. SBI has also incorporated AI-driven fraud detection mechanisms to enhance security.
 
-AI and Analytics: SBI leveraged artificial intelligence and data analytics to provide corporate clients with insights into their financial performance and cash flow management.
+Products and Services
 
-Impact and Future Outlook
-SBI's Corporate Internet Banking platform has transformed the way businesses manage their finances, offering convenience, efficiency, and security. By embracing digital innovation, SBI has strengthened its position as a leader in corporate banking in India.
+SBI offers a range of CINB products tailored to the needs of different corporate customers:
 
-Looking ahead, SBI is likely to continue investing in emerging technologies like blockchain, machine learning, and cloud computing to further enhance its CIB offerings. The bank's focus on customer-centric solutions and digital transformation ensures that it remains at the forefront of corporate banking in the digital age.
+1. Saral
 
-In summary, SBI's Corporate Internet Banking journey reflects its commitment to leveraging technology to meet the needs of its corporate clients. From its early beginnings to its current state-of-the-art platform, SBI has consistently evolved to provide secure, efficient, and innovative banking solutions.
+Target Audience: Sole proprietorship concerns and micro-enterprises.
 
+Features:
 
-What is Corporate Internet Banking?
-Corporate Internet Banking (CINB) of State Bank of India is the channel which facilitates Corporate Customers (any non- individual customer such as firms, companies, trusts, partnerships, proprietorship concerns etc.) to carry out banking activities online anywhere and anytime, aided with the power and convenience of the internet.
+Single-user transactional product.
 
-Who can avail CINB?
-For the purpose of Corporate Internet Banking, any non-individual customer, whether it is a single man enterprise, small business enterprise, firm, trust, institution, Government organization or large conglomerate is treated as a Corporate. Any Corporate maintaining account with any branch of State Bank of India can avail CINB.
+Fund transfer limits: Up to ₹50 lakhs per transaction and ₹2 crores per day.
 
-How to access CINB site?
-Visit online banking site of SBI at https://www.onlinesbi.sbi Click on 'Corporate Banking' caption above login option under CINB section to land on the CINB home page.
+Supports SBI and other bank transactions.
 
-Whether all branches of SBI can provide CINB facility?
-Yes, CINB facility will be made available by all branches of SBI across the country.
+Government/tax transactions up to ₹5 crores per day.
 
-Can CINB be made available to individual (personal Banking) customers?
-No, Corporate Internet Banking as the name itself indicates is meant exclusively for Corporate customers (non individuals). For individual customers Retail Internet Banking facility is separately available.
+Bill payments and e-commerce transactions.
 
-I have availed Internet Banking facility on my SB/CA account as an individual. How does the CINB differ from that?
-Retail internet banking is a single user product whereas CINB (Khata plus, Vyapaar and Vistaar) provide for multiple users with varying powers as per requirement of the Corporate. In CINB, the Corporate gets the capability to grant discretionary access to banking accounts by internal users and dynamically manage permissions to banking transactions and monitor them.
+2. Two User
 
-How safe/secure is our net banking account?
-The Internet banking portal of SBI, www.onlinesbi.sbi is a highly secure, verisign certified site with the transaction data traveling encrypted via an SSL medium (256-bit SSL tunnel), the highest level of security on the internet. The advanced EV-SSL Certificate provides evidence of authenticity to the website which safeguards users from accessing through unauthorised sites.
+Target Audience: Small and medium enterprises, partnership firms.
 
-Corporate vary in size and constitution - from small single person entities to large conglomerates. Does SBI provide net banking facilities to all of us?
-Yes, at SBI, we understand the banking requirements of the various corporate according to the size and complexity. Hence we have designed a variety of Internet Banking products to suit the varying needs of different target groups. You can choose the product among the following that suits your needs best.
+Features:
 
-Saral - This is a simplified single user transactional product ideally suited for sole proprietorship concerns, micro enterprises or individual businessmen who require online transaction facility in their business accounts. The product provides transaction rights to the user involving transfer of funds to own or third party accounts limit upto Rs.50.00 Lacs per transaction and Rs.2 Crores per day (for Government / Tax transactions upto Rs. 5 Crores). Both within SBI and other bank transactions are supported.
-Two User - This is a two-user transactional/enquiry product meant for small, medium and partnership firms and organizations who wish to provide discretionary access/ transaction rights to two users. In two user product both users have equal rights to access the accounts.The product facilitates hassle free and safe online transactions like funds transfer, third party transfer, various tax payments and merchant transactions etc.
-Vyapaar - This is a multi-user transactional product meant for small and medium enterprises and organisations maintaining accounts with a single branch of SBI and who wish to provide discretionary access/ transaction rights to their users. The Administrator of the Corporate creates other corporate users and assigns rights to them for different accounts up to a maximum transaction amount of Rs 2 Crores per transaction (Government / Tax transactions upto Rs. 10 Crores). There will not be any ceiling on the number of transactions per day.
-Vistaar - This is a complete internet banking suite for large and very large corporate, Government organizations and Institutions. The facility enables multiple users to have discretionary access / transaction rights across accounts with various branches. The Corporate Administrator creates other users and assigns rights to them for different accounts up to a maximum transaction amount of Rs 2,000 crore per transaction (Government / Tax transactions upto Rs. 10,000 crore). There will not be any ceiling on the number of transactions per day.
-Khata - This is a single user enquiry product meant for small firms or institutions who maintain accounts with only one branch of SBI and who wish to do only online enquiry and downloading of account statements. Online transactions are not allowed in this product.
-Khata Plus - This is a multi-user enquiry product meant for slightly larger firms or institutions banking with multiple branches of SBI. This provides enquiry facility to multiple users of the organization. Online transactions are not allowed in this product either.
-What is the difference between Khata and Khata Plus? Names sound similar.
-Khata is a single user enquiry facility of CINB. Accounts linked to one Customer number alone can be viewed in this facility. It cannot be upgraded to other products like Vyapaar or Vistaar.
-Khata plus is multi user enquiry facility. This is meant for corporate having multiple users and banking with more than one branch of SBI. Here accounts opened under several Customer numbers can be mapped to one corporate ID. Also, the corporate Administrator can give discretionary rights to the users to view accounts and download statements.
-How do we apply for CINB facility? Where do we get the requisite forms?
-You can approach the SBI branch where your account is maintained for availing any one of the variants of Corporate Internet Banking mentioned above at question no. 8. The registration forms required for the various products can be downloaded from our online banking website www.onlinesbi.sbi through the link "Registration Forms" provided at the top of the Home Page of Corporate Internet Banking. Forms duly filled and accompanied with Board Resolution, wherever required, should be submitted to the branch.
+Two users with equal rights.
 
-Who are the various role holders in the multi user products-Khata Plus, Vyapaar and Vistaar?
-The list of possible role holders in CINB is as follows:
+Facilitates fund transfers, tax payments, and merchant transactions.
 
-Regulator - Role of Regulator is unique to Vistaar facility. He is the executive controller of the Corporate. He defines the overall profile of the corporate in CINB. He cannot view or transact on any account in CINB.
-Administrator - Role of Administrator is mandatory in Khata Plus, Vyapaar and Vistaar. He exercises management control. He creates the other users and provides them access rights to the corporate accounts. He also defines their financial powers to transact on these accounts.
-Enquirer - He can only view and download statements of the accounts mapped to him by the Administrator
-Maker - He is the creator of the transaction. Role applicable to Vyapaar and Vistaar
-Authorizer - He authorizes transactions created by the maker. His authorisation rights are defined by the Administrator. This role is again applicable to Vyapaar and Vistaar
-Uploader - This is an optional role in Vyapaar and Vistaar. He uploads files containing bulk transaction is a pre-defined file structure
-Auditor - This is an optional role in Vistaar. He takes a second look at the transactions and audits them post facto
-Approver - This again is an optional role in Vistaar. Approver checks the transaction before authorisation
-Super Enquirer - He has rights to enquire any account of the corporate maintained at any branch. This role is also optional
-Which role holders will be created by the branch?
-The Branch will create a Corporate ID and provide User ID and password for the following corporate role holders.
+Enhanced security with dual authorization for transactions.
 
-Vistaar : Regulator and Administrator
-Vyapaar and Khata Plus : Administrator
-Khata and Saral : User
-GINB: Regulator, Administrator & User
-We wish to get the User ID and password immediately after our application is accepted by the Branch. Is this possible?
-Yes. The User ID and Password may be issued by means of Pre Printed Kit which is handed over to the respective user against his/her acknowledgment.
+3. Vyapaar
 
-The senior officials of our corporate will not be able to visit the branch to collect the User ID and password. Is there an alternative?
-Yes. In case the user is unable to visit the branch personally for receiving Pre Printed Kit, the Username and Password can be sent separately through dispatch mode.
+Target Audience: Small and medium enterprises.
 
-I have a sole proprietorship concern. Can I get CINB with only enquiry rights?
-Yes. If you wish to use CINB for enquiry only, you can avail Khata facility.
+Features:
 
-I have a sole proprietorship concern. Can I get CINB with transaction rights?
-Yes. You can avail 'Saral' facility. As explained at question No 3 above this is a single user, transactional product.
+Multi-user transactional product.
 
-What transaction facilities are available through 'Saral''?
-Single user operated, user friendly and simple.
-Transaction rights on the accounts.
-Facility to view account information and download account statement of your account.
-Facility to fund transfer to
-SBI accounts(other than your own accounts) --- Consolidated limit upto Rs.50.00 Lacs per transaction and Rs.2 Crores per day.
-SBI own accounts (same CIF) --- Consolidated limit upto Rs.50.00 Lacs per transaction and Rs.2 Crores per day.
-Other Bank Accounts (RTGS/NEFT) --- Consolidated limit upto Rs.50.00 Lacs per transaction and Rs.2 Crores per day.
-Merchant Payments --- Consolidated limit Rs.50.00 Lacs per day (Govt / Tax transactions upto Rs.5 Crores per day).
-Facility for making request for DD issue and Bill Payment upto Rs. 5.00 Lacs per day(Consolidated limit of Rs.5.00 Lacs, i.e on a single day the total amount of Demand Draft request and Bill payments should not exceed Rs.5.00 lcas.)
-State Bank collect payment upto Rs.25.00 lacs per day.
-Supplier payment upto Rs.25.00 lacs per day.
-Facility to participate in e-auction for government departments upto Rs.1.00 Crore per day.
-Facility to make payments to govt. and semi-govt. institutions including taxes, statutory dues such as ESIC, EPF, including OLTAS, CBEC and ICEGATE upto Rs.5 Crores per day.
-User can manage the display of his/her accounts through hide / unhide functionality.
-Facility for online enquiry of transaction status.
-Facility to schedule transactions for a later date.
-Facility to set account nicknames.
-Facility to set beneficiary level limits.
-Facility to set separate limits for DD issue request and tax transactions.
-We are a Partnership concern. Which CINB product is applicable to us?
-You can avail Vyapaar facility. The product provides transaction rights. If however, you choose to use CINB for enquiry purpose alone, you may opt for Khata Plus.
+Transaction limits: Up to ₹2 crores per transaction (₹10 crores for government/tax transactions).
 
-We had availed Khata facility some years ago. Now we need transaction rights. How do we get transaction rights?
-Khata facility cannot be upgraded to other facilities with transaction rights. However, corporate who have availed Khata can register for Saral, Vyapaar or Vistaar depending on their constitution and requirements after requesting the branch to deactivate Khata facility.
+Bulk upload facility for salary, tax, and vendor payments.
 
-We have availed Khata Plus facility. Can we get transaction rights?
-Yes. Khata Plus can be upgraded to Vyapaar or Vistaar. These two variants provide transaction rights. Up-gradation is done by the branch.
+Integration with payroll systems.
 
-The Corporate maintains accounts with several branches of SBI. Can all these be linked to one CINB facility?
-Yes. Corporate may opt for Khata plus (enquiry rights only) or Vistaar facilities (transaction facility) allow accounts in various branches to be mapped to one Corporate ID.
+E-commerce payment solutions.
 
-Our company has units in various parts of the country and we maintain accounts with local branches of SBI. Can we avail INB for all our accounts? Can these accounts be managed by our local offices on CINB?
-Yes. Corporate may opt for Khata Plus (enquiry only) or Vistaar (transaction facility), the Corporate may opt for multiple admin mode. Under any of the said facility the accounts of the various units can be mapped to the respective administrators.
+4. Vistaar
 
-What are the various facilities available under 'Vyapaar' and 'Vistaar' products?
-Following facilities/ types of transactions are enabled through our above transactional products
+Target Audience: Large corporates, government organizations, and institutions.
 
-Fund transfer to own or within SBI accounts in SBI (Intra bank fund transfer)
-Fund transfer to beneficiary accounts in other banks through RTGS/NEFT (Inter Bank fund transfer)
-Request for draft issue
-Payment to registered suppliers
-Various tax payments ( Direct, Indirect and State)
-Facility to schedule transactions
-Top up of Pre paid cards
-View and download of DEMAT holding statement
-MIS / reverse file facility (Reports generation)
-Bulk upload facility for payments of salary, tax, pre-paid cards top up, bills, remittances to intra and inter bank beneficiaries etc.
-E-collection facility
-Direct debit facility ( pull mode)
-Electronic Dealer and Vendor Finance
-IPO subscription facility through ASBA
-Facility for online trading of 'Currency Futures'
-Facility for online payment of EPF subscription
-Our company has a complex hierarchy of officials in Accounts department? Can this be replicated in CINB? Can we delegate powers to them in CINB as per our Corporate policy?
-Yes. CINB provides Corporate the capability to regulate user access to banking accounts by internal users and dynamically manage permissions to banking transactions and monitor them.
+Features:
 
-We wish to avail CINB with transaction rights but at the same time we want transactions to be authorised by more than one person. Is it possible in CINB?
-Yes. The key security feature of CINB is the concept of maker and checker. Transactions are created by one of the users called the maker and authorised by one or more authorisers.
+Multi-user transactional product.
 
-We would like one of our officials to take a look at the transactions after they are posted (post facto) for internal control audit purpose. Does CINB provide for that?
-Yes. The Vistaar facility has a unique role (Auditor) who takes a look at the transactions post facto for audit purpose. However, this is an optional feature.
+Transaction limits: Up to ₹2,000 crores per transaction (₹10,000 crores for government/tax transactions).
 
-Our corporate has a large number of users. Do we have the option to modify/delete/deactivate them in CINB?
-Yes. The Corporate Admin has powers to modify, delete, deactivate and reactivate users.
+Advanced features like bulk upload, e-collection, and audit roles.
 
-Is it possible to upload transactions in bulk for salary, vendor payments etc.
-Yes. Corporate who have availed Vyapaar or Vistaar variants of CINB can use the bulk upload facility for a variety of transactions such as within SBI & other bank transactions, salary payments, vendor payments, bill payments, tax payments etc.
+Integration with enterprise resource planning (ERP) systems.
 
-Are NEFT/RTGS transactions permitted in file upload?
-Yes. NEFT/ RTGS transactions can also be done in file mode.
+API-based payment solutions.
 
-Whether file con contain single debit multiple credit records?
-Yes. Single debit and multiple credit file format is supported for intra bank (transactions within SBI), NEFT and RTGS transactions.
+5. Khata
 
-Whether encrypted files can be uploaded?
-Yes. Upload of files encrypted using either symmetric keys or asymmetric keys (PKI) is supported.
+Target Audience: Small firms and institutions.
 
-What are the Government transactions that we can make through CINB?
-Payments of Direct Taxes (OLTAS), Excise Duty payment, customs duty, Railway freight, online licence fee payment to DGFT, various State Government Taxes etc. are possible through CINB.
+Features:
 
-Can we make payments to our suppliers through CINB?
-Yes. Corporate can make online payments to registered suppliers using CINB. The administrator of the dealer corporate should map the supplier through the appropriate menu in CINB. This has to be approved by the Supplier corporate. After approval supplier payments can be made.
+Single-user enquiry product.
 
-How do Corporate collect payments online from their dealers/customers through CINB?
-CINB facilitates e-collection of dues from dealers through direct debit whereby the supplier corporate availing Vistaar facility can directly debit the accounts of the dealers maintained at various branches of SBI.
+No transaction rights; only account viewing and statement downloads.
 
-To avail this, the supplier corporate has to enter into a bipartite agreement with the bank. Based on this, the dealer will give a mandate to the supplier to debit his account up to a specific limit and period.
+Transaction history up to 12 months.
 
-Ours is an educational institution. Can we collect fees through CINB?
-Yes. Reputed educational institutions who have registered under Vyapaar or Vistaar variants of CINB can make use of the State Bank collect facility for fee collection.
+6. Khata Plus
 
-We are a charitable institution. Can we collect donations through CINB?
-Yes. Reputed institutions who have registered under Vyapaar or Vistaar variants of CINB can make use of the State Bank collect facility for collection of donations.
+Target Audience: Firms and institutions with multiple users.
 
-Whether Non Agency Banks (NABs) who are not authorised to handle tax transactions can take the help of Corporate Internet Banking of SBI to remit taxes of their customers?
-Yes. NABs can register for Vistaar facility and can remit tax payments as file based transactions. Please note that NABs are not allowed to put through any other transactions in CINB.
+Features:
+
+Multi-user enquiry product.
+
+No transaction rights; allows viewing of accounts across multiple branches.
+
+Customizable report generation.
+
+User Roles in CINB
+
+CINB supports multiple user roles to ensure secure and efficient banking operations:
+
+Regulator (Vistaar only): Defines the overall profile of the corporate. Cannot view or transact on accounts.
+
+Administrator: Creates and manages users. Assigns access rights and transaction limits.
+
+Enquirer: Views and downloads account statements.
+
+Maker: Creates transactions (Vyapaar and Vistaar).
+
+Authorizer: Authorizes transactions created by the maker.
+
+Uploader (Optional): Uploads bulk transaction files.
+
+Auditor (Optional): Reviews transactions post-facto for audit purposes.
+
+Approver (Optional): Approves transactions before authorization.
+
+Super Enquirer (Optional): Views any account of the corporate across branches.
+
+Security Features
+
+SBI Corporate Internet Banking ensures the highest level of security for its users:
+
+256-bit SSL encryption: Protects data during transmission.
+
+EV-SSL Certification: Verifies the authenticity of the website.
+
+Multi-level authorization: Ensures transactions are approved by authorized users.
+
+Bulk file encryption: Supports encrypted file uploads for bulk transactions.
+
+Time-based OTP (TOTP): Enhances login and transaction security.
+
+Biometric Authentication (Planned): Future enhancement for added security.
+
+Transaction Facilities
+
+CINB provides a wide range of transaction facilities, including:
+
+Fund transfers: Intra-bank and inter-bank (RTGS/NEFT/IMPS).
+
+Tax payments: Direct and indirect taxes, customs duties, and state taxes.
+
+Supplier payments: Online payments to registered suppliers.
+
+Bulk transactions: Salary payments, vendor payments, and tax payments.
+
+E-collection: Direct debit facility for collecting payments from dealers/customers.
+
+Forex transactions: Facility to handle foreign exchange payments.
+
+Utility bill payments: Electricity, water, gas, and telecom payments.
+
+Auto debit arrangements: Facility for recurring payments.
+
+Future Enhancements
+
+SBI is continuously working to enhance its Corporate Internet Banking platform. Future plans include:
+
+Integration with more government payment systems.
+
+Enhanced bulk transaction capabilities with AI-driven analytics.
+
+Improved user interface and mobile accessibility.
+
+Blockchain-based transaction validation for added security.
+
+Cloud-based hosting for enhanced performance and uptime.
+
+Chatbot and AI-powered customer support.
+
+How to Apply
+
+Corporate customers can apply for CINB by:
+
+Visiting the SBI branch where their account is maintained.
+
+Downloading the required registration forms from the SBI Corporate Banking website.
+
+Submitting the filled forms along with necessary documents (e.g., Board Resolution, KYC documents).
+
+Completing the verification and onboarding process.
+
+External Links
+
+SBI Corporate Banking
+
+Registration Forms
