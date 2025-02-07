@@ -28,6 +28,10 @@ seed_examples:
           What is the difference between Vyapaar and Vistaar?
         answer: |
           Vyapaar is designed for SMEs with accounts at a single branch, while Vistaar is for large corporates with accounts across multiple branches.
+      - question: |
+          Can Saral users upgrade to Vyapaar or Vistaar?
+        answer: |
+          No, users must register separately for Vyapaar or Vistaar as per their business needs.
   - context: |
       CINB ensures the highest level of security through multiple layers of authentication, encryption, and role-based access control.
     questions_and_answers:
@@ -39,6 +43,10 @@ seed_examples:
           Can roles be customized in CINB?
         answer: |
           Yes, CINB allows administrators to define user roles and set transaction limits dynamically.
+      - question: |
+          Does CINB provide audit logs for transactions?
+        answer: |
+          Yes, CINB maintains detailed audit logs for compliance and security purposes.
   - context: |
       CINB provides a wide range of banking services, including fund transfers, bulk transactions, and government-related payments.
     questions_and_answers:
@@ -50,6 +58,10 @@ seed_examples:
           Does CINB support bulk uploads?
         answer: |
           Yes, CINB allows bulk uploads for salary processing, vendor payments, and tax payments.
+      - question: |
+          Can CINB be used for international payments?
+        answer: |
+          Yes, CINB provides forex transaction capabilities for cross-border payments.
   - context: |
       SBI continually enhances CINB with new features and security improvements to offer a seamless corporate banking experience.
     questions_and_answers:
@@ -61,6 +73,10 @@ seed_examples:
           Can CINB be accessed on mobile devices?
         answer: |
           Yes, SBI is working on improving mobile compatibility for CINB to enhance user accessibility.
+      - question: |
+          Will CINB introduce AI-driven fraud detection?
+        answer: |
+          Yes, SBI plans to incorporate AI-based fraud detection for enhanced security.
   - context: |
       CINB allows corporate users to assign different roles to employees, ensuring proper segregation of duties and security.
     questions_and_answers:
@@ -72,6 +88,10 @@ seed_examples:
           Can multiple users be assigned different levels of access?
         answer: |
           Yes, CINB allows multiple users with varying levels of access, enabling better control over corporate transactions.
+      - question: |
+          Is there a limit to the number of users assigned per account?
+        answer: |
+          The number of users per account varies based on the selected CINB product.
   - context: |
       SBI offers various bulk payment solutions through CINB, enabling businesses to handle large-scale transactions efficiently.
     questions_and_answers:
@@ -83,6 +103,10 @@ seed_examples:
           Can CINB be integrated with accounting software?
         answer: |
           Yes, CINB offers API integrations that allow seamless connectivity with enterprise accounting and ERP systems.
+      - question: |
+          Does CINB support scheduled payments?
+        answer: |
+          Yes, CINB allows scheduling of payments to be executed at a later date.
 document_outline: |
   SBI Corporate Internet Banking (CINB) offers a comprehensive online banking solution with secure transactions, customizable user roles, and a variety of financial services for corporate customers.
 document:
