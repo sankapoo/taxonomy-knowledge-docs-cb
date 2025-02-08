@@ -107,6 +107,56 @@ seed_examples:
           Does CINB support scheduled payments?
         answer: |
           Yes, CINB allows scheduling of payments to be executed at a later date.
+
+# Additional Contexts
+  - context: |
+      SBI offers YONO, a digital banking solution that provides a seamless banking experience for retail and corporate customers.
+    questions_and_answers:
+      - question: |
+          What is YONO by SBI?
+        answer: |
+          YONO is a digital banking platform by SBI that allows customers to perform banking transactions, investments, and shopping all in one place.
+      - question: |
+          Can YONO be used for corporate banking?
+        answer: |
+          Yes, YONO Business provides services for corporate and SME customers.
+      - question: |
+          What security features does YONO offer?
+        answer: |
+          YONO provides two-factor authentication, biometric login, and OTP-based transactions for security.
+
+  # Additional Contexts
+  - context: |
+      The State Bank of India (SBI) has a rich heritage and legacy of over 200 years, making it the most trusted bank in India. It originated from the Bank of Calcutta, established in 1806, and evolved through the merger of the Bank of Bengal, Bank of Bombay, and Bank of Madras to form the Imperial Bank of India in 1921. In 1955, the Imperial Bank of India became the State Bank of India, with the Government of India taking control.
+    questions_and_answers:
+      - question: |
+          What is the history of SBI?
+        answer: |
+          SBI originated from the Bank of Calcutta in 1806 and evolved through the merger of the Bank of Bengal, Bank of Bombay, and Bank of Madras to form the Imperial Bank of India in 1921. In 1955, it became the State Bank of India, with the Government of India taking control.
+      - question: |
+          What was the role of the Imperial Bank of India?
+        answer: |
+          The Imperial Bank of India served as a commercial bank, banker's bank, and banker to the government until the establishment of the Reserve Bank of India in 1935.
+      - question: |
+          How did SBI expand its rural outreach?
+        answer: |
+          SBI expanded its rural outreach by integrating eight banks from princely states as subsidiaries under the State Bank of India (Subsidiary Banks) Act of 1959.
+  - context: |
+      In 2022, SBI received several awards and recognitions, including India's Best Annual Report Awards, ET Human Capital Awards, and NASSCOM-DSCI Awards for cybersecurity. These accolades highlight SBI's commitment to excellence and innovation.
+    questions_and_answers:
+      - question: |
+          What awards did SBI win in 2022?
+        answer: |
+          In 2022, SBI won India's Best Annual Report Awards, ET Human Capital Awards (including HR Leader of the Year and Excellence in Business Continuity Planning), and NASSCOM-DSCI Awards for cybersecurity.
+      - question: |
+          What recognition did SBI receive for cybersecurity?
+        answer: |
+          SBI received the "Best Security Operations Centre of the Year" and "Cyber Security Awareness" awards from NASSCOM-DSCI in 2022.
+      - question: |
+          How did SBI perform in the ET Human Capital Awards?
+        answer: |
+          SBI won three Gold Awards at the ET Human Capital Awards, including HR Leader of the Year, Excellence in Business Continuity Planning, and Most Valuable Employer During COVID-19.
+
 document_outline: |
   SBI Corporate Internet Banking (CINB) offers a comprehensive online banking solution with secure transactions, customizable user roles, and a variety of financial services for corporate customers.
 document:
