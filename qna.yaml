@@ -18,6 +18,36 @@ seed_examples:
         answer: |
           CINB offers multi-user access, secure transactions, customizable permissions, bulk transaction facilities, API banking, and government transaction support.
   - context: |
+      SBI has played a crucial role in India's economic history, evolving from the Imperial Bank of India into the largest public sector bank. Over time, it has introduced several digital innovations and modern banking solutions.
+    questions_and_answers:
+      - question: |
+          How did SBI evolve from the Imperial Bank of India?
+        answer: |
+          SBI was originally the Imperial Bank of India before it was nationalized in 1955 to become the State Bank of India, focusing on public sector banking and financial inclusion.
+      - question: |
+          What major digital innovations has SBI introduced?
+        answer: |
+          SBI introduced Internet Banking, the YONO app, and API Banking to support modern digital banking needs.
+      - question: |
+          How does SBI contribute to India’s economy?
+        answer: |
+          SBI supports SMEs, rural banking, and large-scale infrastructure projects, playing a key role in India's financial development.
+  - context: |
+      SBI has received numerous awards and recognitions for its banking excellence, customer service, and digital transformation.
+    questions_and_answers:
+      - question: |
+          What awards has SBI received in 2022?
+        answer: |
+          SBI won the 'Best Digital Bank' award and was recognized for its role in financial inclusion and digital payments.
+      - question: |
+          How is SBI recognized internationally?
+        answer: |
+          SBI is ranked among the Fortune 500 companies and has received global recognition for its banking services.
+      - question: |
+          What are some of SBI’s achievements in digital banking?
+        answer: |
+          SBI pioneered YONO, API banking, and AI-driven security for digital banking services.
+  - context: |
       SBI provides multiple CINB products to cater to different corporate banking needs. These products range from single-user platforms to multi-user transactional solutions.
     questions_and_answers:
       - question: |
@@ -47,121 +77,12 @@ seed_examples:
           Does CINB provide audit logs for transactions?
         answer: |
           Yes, CINB maintains detailed audit logs for compliance and security purposes.
-  - context: |
-      CINB provides a wide range of banking services, including fund transfers, bulk transactions, and government-related payments.
-    questions_and_answers:
-      - question: |
-          What transactions can be performed using CINB?
-        answer: |
-          CINB supports fund transfers, tax payments, bulk salary and vendor payments, e-collections, and forex transactions.
-      - question: |
-          Does CINB support bulk uploads?
-        answer: |
-          Yes, CINB allows bulk uploads for salary processing, vendor payments, and tax payments.
-      - question: |
-          Can CINB be used for international payments?
-        answer: |
-          Yes, CINB provides forex transaction capabilities for cross-border payments.
-  - context: |
-      SBI continually enhances CINB with new features and security improvements to offer a seamless corporate banking experience.
-    questions_and_answers:
-      - question: |
-          What are the future enhancements planned for CINB?
-        answer: |
-          SBI plans to integrate more government payment systems, improve the user interface, enhance mobile accessibility, and introduce blockchain-based security measures.
-      - question: |
-          Can CINB be accessed on mobile devices?
-        answer: |
-          Yes, SBI is working on improving mobile compatibility for CINB to enhance user accessibility.
-      - question: |
-          Will CINB introduce AI-driven fraud detection?
-        answer: |
-          Yes, SBI plans to incorporate AI-based fraud detection for enhanced security.
-  - context: |
-      CINB allows corporate users to assign different roles to employees, ensuring proper segregation of duties and security.
-    questions_and_answers:
-      - question: |
-          What are the different user roles available in CINB?
-        answer: |
-          CINB provides roles like Regulator, Administrator, Maker, Authorizer, Uploader, Auditor, and Super Enquirer to manage transactions securely.
-      - question: |
-          Can multiple users be assigned different levels of access?
-        answer: |
-          Yes, CINB allows multiple users with varying levels of access, enabling better control over corporate transactions.
-      - question: |
-          Is there a limit to the number of users assigned per account?
-        answer: |
-          The number of users per account varies based on the selected CINB product.
-  - context: |
-      SBI offers various bulk payment solutions through CINB, enabling businesses to handle large-scale transactions efficiently.
-    questions_and_answers:
-      - question: |
-          How does CINB support bulk transactions?
-        answer: |
-          CINB supports bulk uploads for salary payments, vendor transactions, and tax payments, ensuring efficient large-scale fund transfers.
-      - question: |
-          Can CINB be integrated with accounting software?
-        answer: |
-          Yes, CINB offers API integrations that allow seamless connectivity with enterprise accounting and ERP systems.
-      - question: |
-          Does CINB support scheduled payments?
-        answer: |
-          Yes, CINB allows scheduling of payments to be executed at a later date.
-
-# Additional Contexts
-  - context: |
-      SBI offers YONO, a digital banking solution that provides a seamless banking experience for retail and corporate customers.
-    questions_and_answers:
-      - question: |
-          What is YONO by SBI?
-        answer: |
-          YONO is a digital banking platform by SBI that allows customers to perform banking transactions, investments, and shopping all in one place.
-      - question: |
-          Can YONO be used for corporate banking?
-        answer: |
-          Yes, YONO Business provides services for corporate and SME customers.
-      - question: |
-          What security features does YONO offer?
-        answer: |
-          YONO provides two-factor authentication, biometric login, and OTP-based transactions for security.
-
-  # Additional Contexts
-  - context: |
-      The State Bank of India (SBI) has a rich heritage and legacy of over 200 years, making it the most trusted bank in India. It originated from the Bank of Calcutta, established in 1806, and evolved through the merger of the Bank of Bengal, Bank of Bombay, and Bank of Madras to form the Imperial Bank of India in 1921. In 1955, the Imperial Bank of India became the State Bank of India, with the Government of India taking control.
-    questions_and_answers:
-      - question: |
-          What is the history of SBI?
-        answer: |
-          SBI originated from the Bank of Calcutta in 1806 and evolved through the merger of the Bank of Bengal, Bank of Bombay, and Bank of Madras to form the Imperial Bank of India in 1921. In 1955, it became the State Bank of India, with the Government of India taking control.
-      - question: |
-          What was the role of the Imperial Bank of India?
-        answer: |
-          The Imperial Bank of India served as a commercial bank, banker's bank, and banker to the government until the establishment of the Reserve Bank of India in 1935.
-      - question: |
-          How did SBI expand its rural outreach?
-        answer: |
-          SBI expanded its rural outreach by integrating eight banks from princely states as subsidiaries under the State Bank of India (Subsidiary Banks) Act of 1959.
-  - context: |
-      In 2022, SBI received several awards and recognitions, including India's Best Annual Report Awards, ET Human Capital Awards, and NASSCOM-DSCI Awards for cybersecurity. These accolades highlight SBI's commitment to excellence and innovation.
-    questions_and_answers:
-      - question: |
-          What awards did SBI win in 2022?
-        answer: |
-          In 2022, SBI won India's Best Annual Report Awards, ET Human Capital Awards (including HR Leader of the Year and Excellence in Business Continuity Planning), and NASSCOM-DSCI Awards for cybersecurity.
-      - question: |
-          What recognition did SBI receive for cybersecurity?
-        answer: |
-          SBI received the "Best Security Operations Centre of the Year" and "Cyber Security Awareness" awards from NASSCOM-DSCI in 2022.
-      - question: |
-          How did SBI perform in the ET Human Capital Awards?
-        answer: |
-          SBI won three Gold Awards at the ET Human Capital Awards, including HR Leader of the Year, Excellence in Business Continuity Planning, and Most Valuable Employer During COVID-19.
 
 document_outline: |
   SBI Corporate Internet Banking (CINB) offers a comprehensive online banking solution with secure transactions, customizable user roles, and a variety of financial services for corporate customers.
 document:
   repo: https://github.com/sankapoo/taxonomy-knowledge-docs-cb.git
-  commit: dc51b41fd504597e6fa6424738aed63af2e20d6d
+  commit: 99131e066d5fb29c8a480ac23bcf4d4d734a760d
   patterns:
     - corporate_internet_banking.md
     - corporate_internet_banking.pdf
