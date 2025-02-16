@@ -77,12 +77,27 @@ seed_examples:
           Does CINB provide audit logs for transactions?
         answer: |
           Yes, CINB maintains detailed audit logs for compliance and security purposes.
+  - context: |
+      SBI supports various industries, including fintech, healthcare, and retail, through its corporate banking solutions.
+    questions_and_answers:
+      - question: |
+          How does SBI CINB support fintech companies?
+        answer: |
+          SBI’s API Banking allows fintech firms to integrate digital payment solutions and automate transactions securely.
+      - question: |
+          What role does SBI play in government banking?
+        answer: |
+          SBI processes bulk government transactions, including tax collections and welfare disbursements, ensuring seamless public sector banking.
+      - question: |
+          How does SBI help retail businesses?
+        answer: |
+          SBI provides merchant banking solutions, bulk payment processing, and POS machine integration to retail businesses.
 
 document_outline: |
   SBI Corporate Internet Banking (CINB) offers a comprehensive online banking solution with secure transactions, customizable user roles, and a variety of financial services for corporate customers.
 document:
   repo: https://github.com/sankapoo/taxonomy-knowledge-docs-cb.git
-  commit: 275b23b2799ef97d16a8bed36ea8e76b67a5ebc6
+  commit: 772171bed449d8e9352087085f7a482d11a996f5
   patterns:
     - corporate_internet_banking.md
     - corporate_internet_banking.pdf
