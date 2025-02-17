@@ -18,36 +18,6 @@ seed_examples:
         answer: |
           CINB offers multi-user access, secure transactions, customizable permissions, bulk transaction facilities, API banking, and government transaction support.
   - context: |
-      SBI has played a crucial role in India's economic history, evolving from the Imperial Bank of India into the largest public sector bank. Over time, it has introduced several digital innovations and modern banking solutions.
-    questions_and_answers:
-      - question: |
-          How did SBI evolve from the Imperial Bank of India?
-        answer: |
-          SBI was originally the Imperial Bank of India before it was nationalized in 1955 to become the State Bank of India, focusing on public sector banking and financial inclusion.
-      - question: |
-          What major digital innovations has SBI introduced?
-        answer: |
-          SBI introduced Internet Banking, the YONO app, and API Banking to support modern digital banking needs.
-      - question: |
-          How does SBI contribute to India’s economy?
-        answer: |
-          SBI supports SMEs, rural banking, and large-scale infrastructure projects, playing a key role in India's financial development.
-  - context: |
-      SBI has received numerous awards and recognitions for its banking excellence, customer service, and digital transformation.
-    questions_and_answers:
-      - question: |
-          What awards has SBI received in 2022?
-        answer: |
-          SBI won the 'Best Digital Bank' award and was recognized for its role in financial inclusion and digital payments.
-      - question: |
-          How is SBI recognized internationally?
-        answer: |
-          SBI is ranked among the Fortune 500 companies and has received global recognition for its banking services.
-      - question: |
-          What are some of SBI’s achievements in digital banking?
-        answer: |
-          SBI pioneered YONO, API banking, and AI-driven security for digital banking services.
-  - context: |
       SBI provides multiple CINB products to cater to different corporate banking needs. These products range from single-user platforms to multi-user transactional solutions.
     questions_and_answers:
       - question: |
@@ -59,45 +29,330 @@ seed_examples:
         answer: |
           Vyapaar is designed for SMEs with accounts at a single branch, while Vistaar is for large corporates with accounts across multiple branches.
       - question: |
-          Can Saral users upgrade to Vyapaar or Vistaar?
+          How does Khata Plus differ from Khata?
         answer: |
-          No, users must register separately for Vyapaar or Vistaar as per their business needs.
+          Khata allows single-user account viewing, while Khata Plus supports multiple users and branch-wide account access.
   - context: |
-      CINB ensures the highest level of security through multiple layers of authentication, encryption, and role-based access control.
+      SBI's CINB supports businesses of all sizes, from small firms to large enterprises, by offering customized banking solutions.
     questions_and_answers:
       - question: |
-          How secure is CINB?
+          How does SBI support startups with CINB?
         answer: |
-          CINB employs 256-bit SSL encryption, EV-SSL certification, multi-level authorization, and OTP-based authentication to ensure security.
+          Startups can use CINB for easy payroll processing, vendor payments, and tax compliance while benefiting from SBI's startup-friendly banking policies.
       - question: |
-          Can roles be customized in CINB?
+          How can large enterprises integrate CINB into their ERP systems?
         answer: |
-          Yes, CINB allows administrators to define user roles and set transaction limits dynamically.
+          Large enterprises can integrate CINB using API banking solutions that enable seamless transaction processing and financial management.
       - question: |
-          Does CINB provide audit logs for transactions?
+          What financing options does SBI offer for corporate clients?
         answer: |
-          Yes, CINB maintains detailed audit logs for compliance and security purposes.
+          SBI provides working capital loans, trade finance, and corporate term loans to support business expansion and financial stability.
   - context: |
-      SBI supports various industries, including fintech, healthcare, and retail, through its corporate banking solutions.
+      SBI's CINB platform supports real-time financial transactions and helps businesses manage cash flow efficiently.
     questions_and_answers:
       - question: |
-          How does SBI CINB support fintech companies?
+          How can CINB help businesses manage cash flow?
         answer: |
-          SBI’s API Banking allows fintech firms to integrate digital payment solutions and automate transactions securely.
+          CINB provides real-time account monitoring, automated reconciliation, and scheduled bulk payments to ensure efficient cash flow management.
       - question: |
-          What role does SBI play in government banking?
+          What are the bulk transaction options available in CINB?
         answer: |
-          SBI processes bulk government transactions, including tax collections and welfare disbursements, ensuring seamless public sector banking.
+          CINB supports bulk salary disbursements, vendor payments, tax payments, and government transactions through a secure interface.
       - question: |
-          How does SBI help retail businesses?
+          Can CINB be accessed via mobile devices?
         answer: |
-          SBI provides merchant banking solutions, bulk payment processing, and POS machine integration to retail businesses.
+          Yes, SBI provides a mobile-friendly interface for CINB, allowing businesses to manage transactions on the go.
+  - context: |
+      SBI has implemented advanced security measures to protect corporate banking transactions from cyber threats.
+    questions_and_answers:
+      - question: |
+          What security measures does SBI CINB offer?
+        answer: |
+          CINB employs 256-bit SSL encryption, multi-factor authentication, AI-driven fraud detection, and role-based access controls.
+      - question: |
+          How does CINB prevent unauthorized transactions?
+        answer: |
+          SBI uses OTP-based transaction verification, audit logs, and maker-checker workflows to prevent unauthorized transactions.
+      - question: |
+          What is AI-driven fraud detection in CINB?
+        answer: |
+          SBI's AI-driven fraud detection system analyzes transaction patterns and flags suspicious activities in real time.
+  - context: |
+      SBI has expanded its banking solutions to cater to government and public sector financial needs.
+    questions_and_answers:
+      - question: |
+          How does SBI support government banking transactions?
+        answer: |
+          SBI facilitates bulk tax payments, welfare disbursements, and direct benefit transfers (DBT) through its secure banking platforms.
+      - question: |
+          Can CINB be used for government contractor payments?
+        answer: |
+          Yes, government contractors can use CINB to receive and manage payments for infrastructure and service projects.
+      - question: |
+          What role does SBI play in financial inclusion?
+        answer: |
+          SBI provides digital banking access to rural areas through financial literacy programs and zero-balance account options.
+  - context: |
+      SBI has played a crucial role in India's economic history, evolving from the Imperial Bank of India into the largest public sector bank. Over time, it has introduced several digital innovations and modern banking solutions.
+    questions_and_answers:
+      - question: |
+          How did SBI evolve from the Imperial Bank of India?
+        answer: |
+          SBI was originally the Imperial Bank of India before it was nationalized in 1955 to become the State Bank of India, focusing on public sector banking and financial inclusion.
+      - question: |
+          What major digital innovations has SBI introduced?
+        answer: |
+          SBI introduced Internet Banking, the YONO app, API Banking, and blockchain-based security solutions to support modern banking needs.
+      - question: |
+          How does SBI contribute to India's economy?
+        answer: |
+          SBI supports SMEs, rural banking, and large-scale infrastructure projects, playing a key role in India's financial development.
+  - context: |
+      SBI CINB provides comprehensive direct and indirect tax payment facilities for government transactions, making it easier for businesses to comply with tax regulations.
+    questions_and_answers:
+      - question: |
+          What types of direct tax payments can be made through CINB?
+        answer: |
+          Through CINB, businesses can pay Advanced Tax, Self-Assessment Tax, TDS/TCS Payments, Regular Assessment Tax, and access TRACES integration for TDS return filing.
+      - question: |
+          What indirect tax payment options are available in CINB?
+        answer: |
+          CINB supports GST Payments with GSTN integration, Customs Duty, Central Excise, Service Tax, and State VAT payments where applicable.
+      - question: |
+          What other government payments can be processed through CINB?
+        answer: |
+          CINB facilitates EPFO/ESI Contributions, Professional Tax, Municipal Taxes, State Insurance, government tender fees, and license fee payments.
+  - context: |
+      The CINB platform offers sophisticated liquidity management tools to help businesses optimize their cash positions and working capital.
+    questions_and_answers:
+      - question: |
+          What liquidity management features does CINB offer?
+        answer: |
+          CINB provides real-time cash position monitoring, cash flow forecasting, automated sweeping and pooling, virtual account management, intra-day liquidity reports, and multi-bank cash concentration.
+      - question: |
+          How does CINB help in working capital optimization?
+        answer: |
+          CINB offers Supply Chain Finance integration, invoice discounting, dynamic vendor payment scheduling, early payment discount automation, credit line utilization tracking, and a working capital analytics dashboard.
+      - question: |
+          What investment management capabilities are available in CINB?
+        answer: |
+          CINB supports Fixed Deposit creation and management, Mutual Fund investments, treasury operations, automated investment sweeps, yield optimization tools, and investment portfolio tracking.
+  - context: |
+      SBI CINB provides extensive ERP integration capabilities supporting various systems and technical standards.
+    questions_and_answers:
+      - question: |
+          Which ERP systems are supported by CINB?
+        answer: |
+          CINB supports integration with SAP, Oracle, Microsoft Dynamics, Tally, and custom ERP solutions.
+      - question: |
+          What are the key ERP integration features available?
+        answer: |
+          CINB offers Host-to-Host connectivity, API-based real-time integration, automated payment file processing, statement reconciliation, invoice matching, and payment status updates.
+      - question: |
+          What technical standards does CINB support for ERP integration?
+        answer: |
+          CINB supports MT940/MT942 formats, ISO 20022 XML message standards, SFTP, RESTful API integration, real-time webhook notifications, and encryption standards like PGP/PKCS#7.
+  - context: |
+      The AI-powered fraud detection system in CINB uses advanced algorithms and machine learning for transaction security.
+    questions_and_answers:
+      - question: |
+          How does AI-powered fraud detection work in CINB?
+        answer: |
+          It uses machine learning algorithms for transaction monitoring, behavioral analytics, pattern recognition, real-time fraud scoring, anomaly detection, and predictive fraud prevention.
+      - question: |
+          What monitoring and alert features are available?
+        answer: |
+          CINB provides real-time transaction monitoring, customizable alert thresholds, SMS/Email notifications, suspicious activity reports, audit trails, and compliance reporting.
+      - question: |
+          What fraud prevention services does CINB offer?
+        answer: |
+          CINB includes positive pay for check payments, beneficiary whitelisting, transaction limit management, user activity monitoring, suspicious pattern detection, and automated account blocking.
+  - context: |
+      CINB implements multiple layers of security controls to protect corporate transactions and user access.
+    questions_and_answers:
+      - question: |
+          What security controls are in place for CINB?
+        answer: |
+          CINB implements IP whitelisting, device binding, geo-fencing, transaction velocity controls, maker-checker validation, multi-factor authentication, and biometric verification.
+      - question: |
+          How does CINB manage user access security?
+        answer: |
+          Through role-based access controls, multi-factor authentication, biometric verification, and device binding for authorized users.
+      - question: |
+          What transaction security measures are implemented?
+        answer: |
+          CINB uses transaction velocity controls, maker-checker validation, beneficiary whitelisting, and customizable transaction limits.
+  - context: |
+      CINB offers specialized working capital management solutions for businesses of all sizes.
+    questions_and_answers:
+      - question: |
+          What working capital solutions does CINB provide?
+        answer: |
+          CINB offers supply chain financing, invoice discounting, vendor payment management, and working capital analytics for optimal cash flow management.
+      - question: |
+          How does CINB help in vendor payment management?
+        answer: |
+          Through dynamic vendor payment scheduling, early payment discount automation, and integrated supply chain finance solutions.
+      - question: |
+          What analytics tools are available for working capital management?
+        answer: |
+          CINB provides working capital analytics dashboard, credit line utilization tracking, and cash flow forecasting tools.
+  - context: |
+      Investment management features in CINB help corporations optimize their surplus funds and manage treasury operations.
+    questions_and_answers:
+      - question: |
+          What investment options are available through CINB?
+        answer: |
+          CINB supports Fixed Deposit creation, Mutual Fund investments, treasury operations, and automated investment sweeps.
+      - question: |
+          How does CINB help in yield optimization?
+        answer: |
+          Through yield optimization tools, automated investment sweeps, and comprehensive investment portfolio tracking.
+      - question: |
+          What treasury management features does CINB offer?
+        answer: |
+          CINB provides treasury operations support, investment portfolio tracking, and automated investment management tools.
+  - context: |
+      CINB provides specialized solutions for government contractors and public sector enterprises.
+    questions_and_answers:
+      - question: |
+          What features are available for government contractors?
+        answer: |
+          CINB offers tender fee payments, contract payment management, and specialized banking solutions for government project execution.
+      - question: |
+          How does CINB support public sector enterprises?
+        answer: |
+          Through specialized payment solutions, compliance reporting, and integration with government payment systems.
+      - question: |
+          What compliance features are available for government transactions?
+        answer: |
+          CINB provides automated compliance reporting, audit trails, and integration with government tax and payment platforms.
+  - context: |
+      ABC Industries Ltd., a manufacturing company, successfully implemented SBI CINB Vistaar to manage their supplier payments and reconciliation processes.
+    questions_and_answers:
+      - question: |
+          How did CINB help ABC Industries Ltd. improve their supplier payment process?
+        answer: |
+          CINB Vistaar implementation with ERP integration automated bulk payment processing, provided real-time payment status updates, and enabled instant reconciliation, reducing payment processing time by 85% and saving ₹1.2 crores annually.
+      - question: |
+          What were the key challenges faced by ABC Industries Ltd.?
+        answer: |
+          The company struggled with managing payments to 500+ suppliers across India, high manual intervention in payment processing, and delayed reconciliation that affected supplier relationships.
+      - question: |
+          What were the measurable benefits achieved by ABC Industries Ltd.?
+        answer: |
+          They achieved 85% reduction in payment processing time, 95% automation in reconciliation, improved supplier satisfaction, and cost savings of ₹1.2 crores annually.
+  - context: |
+      TechServe Solutions, an IT services company, utilized CINB for efficient salary disbursement and tax compliance management.
+    questions_and_answers:
+      - question: |
+          How did CINB solve TechServe Solutions' payroll challenges?
+        answer: |
+          CINB Vyapaar with payroll system integration automated TDS calculations and payments, enabled bulk salary processing with multi-currency support, and integrated with TRACES for TDS compliance.
+      - question: |
+          What improvements were seen in salary processing at TechServe Solutions?
+        answer: |
+          The salary processing time was reduced from 3 days to 4 hours, with 100% tax compliance, zero errors in salary disbursement, and enhanced employee satisfaction.
+      - question: |
+          What specific features of CINB helped TechServe Solutions manage international payments?
+        answer: |
+          CINB provided multi-currency support, automated TDS calculations, and seamless integration with payroll systems and TRACES for international salary disbursements.
+  - context: |
+      Infrastructure Builders Ltd., a government contractor, leveraged CINB for managing project payments and regulatory compliance.
+    questions_and_answers:
+      - question: |
+          How did CINB streamline government project payments for Infrastructure Builders Ltd.?
+        answer: |
+          Through Vistaar implementation with government payment integration, automated tender fee processing, real-time tracking of project payments, and integrated compliance reporting.
+      - question: |
+          What compliance benefits did Infrastructure Builders Ltd. achieve with CINB?
+        answer: |
+          They achieved enhanced compliance tracking, real-time visibility of project funds, and improved project execution efficiency with automated compliance reporting.
+      - question: |
+          How did CINB improve the tender process for Infrastructure Builders Ltd.?
+        answer: |
+          CINB automated tender fee processing and provided real-time tracking of project payments, resulting in 90% reduction in payment processing time.
+  - context: |
+      QuickMart Stores, a retail chain, implemented CINB for efficient cash management and store collections.
+    questions_and_answers:
+      - question: |
+          How did CINB help QuickMart Stores manage multiple store collections?
+        answer: |
+          CINB provided virtual account setup for each store, automated reconciliation system, real-time cash position monitoring, and a working capital analytics dashboard.
+      - question: |
+          What improvements in reconciliation did QuickMart Stores achieve?
+        answer: |
+          They achieved same-day reconciliation, reduced manual intervention by 90%, and enhanced cash flow visibility across 200+ stores.
+      - question: |
+          How did CINB optimize working capital for QuickMart Stores?
+        answer: |
+          Through real-time cash position monitoring and working capital analytics dashboard, resulting in 25% working capital optimization.
+  - context: |
+      Global Education Trust utilized CINB for managing fee collections and accounting requirements for their educational institution.
+    questions_and_answers:
+      - question: |
+          How did CINB streamline fee collection for Global Education Trust?
+        answer: |
+          CINB provided e-collection facility with student mapping, automated fee reconciliation, integrated accounting system, and custom report generation.
+      - question: |
+          What were the key benefits achieved in fee management?
+        answer: |
+          They achieved 100% digital fee collection, real-time fee status updates, reduced administrative overhead, and enhanced parent satisfaction.
+      - question: |
+          How did CINB improve the accounting process for the institution?
+        answer: |
+          Through integrated accounting system and custom report generation, providing automated reconciliation and real-time financial visibility.
+  - context: |
+      HealthCare Pharma Ltd. implemented CINB for international trade payments and regulatory compliance.
+    questions_and_answers:
+      - question: |
+          How did CINB help HealthCare Pharma Ltd. manage international trade?
+        answer: |
+          Through forex payment automation, trade finance integration, supply chain financing solution, and compliance monitoring system.
+      - question: |
+          What improvements were seen in trade processing?
+        answer: |
+          They achieved 50% reduction in trade processing time, enhanced supplier relationships, improved working capital efficiency, and 100% regulatory compliance.
+      - question: |
+          How did CINB support supply chain financing needs?
+        answer: |
+          By providing integrated supply chain financing solutions that improved working capital efficiency and enhanced supplier relationships.
+  - context: |
+      FarmersFirst Co-op utilized CINB for managing payments to farmers and rural banking access.
+    questions_and_answers:
+      - question: |
+          How did CINB facilitate farmer payments for FarmersFirst Co-op?
+        answer: |
+          Through bulk payment processing, mobile banking integration, rural banking support, and automated farmer payments, enabling same-day payments to 10,000+ farmers.
+      - question: |
+          What digital adoption results were achieved?
+        answer: |
+          The co-op achieved 95% digital payment adoption, enhanced rural banking access, and improved farmer satisfaction.
+      - question: |
+          How did CINB address seasonal payment variations?
+        answer: |
+          Through automated bulk payment processing and flexible payment scheduling that accommodated seasonal payment patterns.
+  - context: |
+      ShopOnline India, an e-commerce platform, used CINB for high-volume transaction processing and fraud prevention.
+    questions_and_answers:
+      - question: |
+          How did CINB handle high-volume transactions for ShopOnline India?
+        answer: |
+          Through API banking integration, real-time transaction monitoring, and automated reconciliation, achieving 99.9% uptime for payments.
+      - question: |
+          What fraud prevention benefits were achieved?
+        answer: |
+          CINB's AI-powered fraud detection resulted in 90% reduction in fraud attempts and enhanced customer trust.
+      - question: |
+          How did CINB improve transaction monitoring?
+        answer: |
+          Through real-time transaction monitoring, API banking integration, and automated reconciliation, providing real-time transaction visibility.
 
 document_outline: |
   SBI Corporate Internet Banking (CINB) offers a comprehensive online banking solution with secure transactions, customizable user roles, and a variety of financial services for corporate customers.
 document:
   repo: https://github.com/sankapoo/taxonomy-knowledge-docs-cb.git
-  commit: 772171bed449d8e9352087085f7a482d11a996f5
+  commit: af4cc8a4c21fb4917eaba779920ef3d1dcd90029
   patterns:
     - corporate_internet_banking.md
     - corporate_internet_banking.pdf
