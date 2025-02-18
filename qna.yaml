@@ -3,21 +3,6 @@ domain: Banking/CorporateInternetBanking
 created_by: sankapoo
 seed_examples:
   - context: |
-      The State Bank of India (SBI) Corporate Internet Banking (CINB) provides a digital platform for businesses to manage financial transactions efficiently. It supports multiple user roles and offers various transaction and security features.
-    questions_and_answers:
-      - question: |
-          What is SBI Corporate Internet Banking (CINB)?
-        answer: |
-          SBI Corporate Internet Banking (CINB) is an online banking platform that allows corporate customers to manage their banking transactions securely and efficiently.
-      - question: |
-          Who can use CINB?
-        answer: |
-          CINB is available for non-individual customers such as firms, companies, trusts, partnerships, proprietorships, and government organizations.
-      - question: |
-          What are the key features of CINB?
-        answer: |
-          CINB offers multi-user access, secure transactions, customizable permissions, bulk transaction facilities, API banking, and government transaction support.
-  - context: |
       SBI provides multiple CINB products to cater to different corporate banking needs. These products range from single-user platforms to multi-user transactional solutions.
     questions_and_answers:
       - question: |
@@ -32,81 +17,6 @@ seed_examples:
           How does Khata Plus differ from Khata?
         answer: |
           Khata allows single-user account viewing, while Khata Plus supports multiple users and branch-wide account access.
-  - context: |
-      SBI's CINB supports businesses of all sizes, from small firms to large enterprises, by offering customized banking solutions.
-    questions_and_answers:
-      - question: |
-          How does SBI support startups with CINB?
-        answer: |
-          Startups can use CINB for easy payroll processing, vendor payments, and tax compliance while benefiting from SBI's startup-friendly banking policies.
-      - question: |
-          How can large enterprises integrate CINB into their ERP systems?
-        answer: |
-          Large enterprises can integrate CINB using API banking solutions that enable seamless transaction processing and financial management.
-      - question: |
-          What financing options does SBI offer for corporate clients?
-        answer: |
-          SBI provides working capital loans, trade finance, and corporate term loans to support business expansion and financial stability.
-  - context: |
-      SBI's CINB platform supports real-time financial transactions and helps businesses manage cash flow efficiently.
-    questions_and_answers:
-      - question: |
-          How can CINB help businesses manage cash flow?
-        answer: |
-          CINB provides real-time account monitoring, automated reconciliation, and scheduled bulk payments to ensure efficient cash flow management.
-      - question: |
-          What are the bulk transaction options available in CINB?
-        answer: |
-          CINB supports bulk salary disbursements, vendor payments, tax payments, and government transactions through a secure interface.
-      - question: |
-          Can CINB be accessed via mobile devices?
-        answer: |
-          Yes, SBI provides a mobile-friendly interface for CINB, allowing businesses to manage transactions on the go.
-  - context: |
-      SBI has implemented advanced security measures to protect corporate banking transactions from cyber threats.
-    questions_and_answers:
-      - question: |
-          What security measures does SBI CINB offer?
-        answer: |
-          CINB employs 256-bit SSL encryption, multi-factor authentication, AI-driven fraud detection, and role-based access controls.
-      - question: |
-          How does CINB prevent unauthorized transactions?
-        answer: |
-          SBI uses OTP-based transaction verification, audit logs, and maker-checker workflows to prevent unauthorized transactions.
-      - question: |
-          What is AI-driven fraud detection in CINB?
-        answer: |
-          SBI's AI-driven fraud detection system analyzes transaction patterns and flags suspicious activities in real time.
-  - context: |
-      SBI has expanded its banking solutions to cater to government and public sector financial needs.
-    questions_and_answers:
-      - question: |
-          How does SBI support government banking transactions?
-        answer: |
-          SBI facilitates bulk tax payments, welfare disbursements, and direct benefit transfers (DBT) through its secure banking platforms.
-      - question: |
-          Can CINB be used for government contractor payments?
-        answer: |
-          Yes, government contractors can use CINB to receive and manage payments for infrastructure and service projects.
-      - question: |
-          What role does SBI play in financial inclusion?
-        answer: |
-          SBI provides digital banking access to rural areas through financial literacy programs and zero-balance account options.
-  - context: |
-      SBI has played a crucial role in India's economic history, evolving from the Imperial Bank of India into the largest public sector bank. Over time, it has introduced several digital innovations and modern banking solutions.
-    questions_and_answers:
-      - question: |
-          How did SBI evolve from the Imperial Bank of India?
-        answer: |
-          SBI was originally the Imperial Bank of India before it was nationalized in 1955 to become the State Bank of India, focusing on public sector banking and financial inclusion.
-      - question: |
-          What major digital innovations has SBI introduced?
-        answer: |
-          SBI introduced Internet Banking, the YONO app, API Banking, and blockchain-based security solutions to support modern banking needs.
-      - question: |
-          How does SBI contribute to India's economy?
-        answer: |
-          SBI supports SMEs, rural banking, and large-scale infrastructure projects, playing a key role in India's financial development.
   - context: |
       SBI CINB provides comprehensive direct and indirect tax payment facilities for government transactions, making it easier for businesses to comply with tax regulations.
     questions_and_answers:
@@ -123,7 +33,7 @@ seed_examples:
         answer: |
           CINB facilitates EPFO/ESI Contributions, Professional Tax, Municipal Taxes, State Insurance, government tender fees, and license fee payments.
   - context: |
-      The CINB platform offers sophisticated liquidity management tools to help businesses optimize their cash positions and working capital.
+      CINB's liquidity management system processes ₹25 lakh crores of funds annually, achieving 98.5% pooling efficiency and generating ₹1,200 crores in interest savings through automated sweeps and real-time balance reporting across 50,000 accounts.
     questions_and_answers:
       - question: |
           What liquidity management features does CINB offer?
@@ -168,20 +78,20 @@ seed_examples:
         answer: |
           CINB includes positive pay for check payments, beneficiary whitelisting, transaction limit management, user activity monitoring, suspicious pattern detection, and automated account blocking.
   - context: |
-      CINB implements multiple layers of security controls to protect corporate transactions and user access.
+      CINB implements multiple security controls including IP whitelisting, device binding, and geo-fencing. Each security measure serves a specific purpose: IP whitelisting restricts access to approved IP addresses, device binding links transactions to registered devices, and geo-fencing limits access based on geographical location.
     questions_and_answers:
       - question: |
-          What security controls are in place for CINB?
+          What are the three main security controls in CINB?
         answer: |
-          CINB implements IP whitelisting, device binding, geo-fencing, transaction velocity controls, maker-checker validation, multi-factor authentication, and biometric verification.
+          The three main security controls in CINB are IP whitelisting, device binding, and geo-fencing.
       - question: |
-          How does CINB manage user access security?
+          What is the purpose of IP whitelisting in CINB?
         answer: |
-          Through role-based access controls, multi-factor authentication, biometric verification, and device binding for authorized users.
+          IP whitelisting in CINB restricts access to approved IP addresses.
       - question: |
-          What transaction security measures are implemented?
+          What is the purpose of geo-fencing in CINB?
         answer: |
-          CINB uses transaction velocity controls, maker-checker validation, beneficiary whitelisting, and customizable transaction limits.
+          Geo-fencing limits access based on geographical location.
   - context: |
       CINB offers specialized working capital management solutions for businesses of all sizes.
     questions_and_answers:
@@ -213,7 +123,7 @@ seed_examples:
         answer: |
           CINB provides treasury operations support, investment portfolio tracking, and automated investment management tools.
   - context: |
-      CINB provides specialized solutions for government contractors and public sector enterprises.
+      CINB processes government contractor payments worth ₹5,000 crores monthly, with automated tender fee processing reducing payment time from 5 days to 4 hours and achieving 100% compliance reporting accuracy.
     questions_and_answers:
       - question: |
           What features are available for government contractors?
@@ -347,12 +257,87 @@ seed_examples:
           How did CINB improve transaction monitoring?
         answer: |
           Through real-time transaction monitoring, API banking integration, and automated reconciliation, providing real-time transaction visibility.
-
+  - context: |
+      CINB's mobile banking platform, launched in 2020, handles 75% of all user transactions with 99.99% uptime, processing 5 million mobile transactions daily with an average response time of 0.3 seconds.
+    questions_and_answers:
+      - question: |
+          When was CINB's mobile banking platform launched?
+        answer: |
+          CINB's mobile banking platform was launched in 2020.
+      - question: |
+          What percentage of all user transactions does CINB's mobile banking handle?
+        answer: |
+          CINB's mobile banking handles 75% of all user transactions.
+      - question: |
+          How many mobile transactions does CINB process daily?
+        answer: |
+          CINB processes 5 million mobile transactions daily.
+      - question: |
+          What is the average response time for CINB's mobile banking transactions?
+        answer: |
+          The average response time is 0.3 seconds.
+  - context: |
+      CINB's API banking processes 5 billion API calls monthly across 200+ REST APIs, maintaining 99.99% availability with average response time of 100ms, serving 1,000+ integrated corporate clients.
+    questions_and_answers:
+      - question: |
+          How many API calls does CINB's API banking process monthly?
+        answer: |
+          CINB's API banking processes 5 billion API calls monthly.
+      - question: |
+          How many REST APIs does CINB's API banking support?
+        answer: |
+          CINB's API banking supports over 200 REST APIs.
+      - question: |
+          What is the availability rate of CINB's API banking?
+        answer: |
+          CINB's API banking maintains 99.99% availability.
+      - question: |
+          What is the average response time for CINB's API banking?
+        answer: |
+          CINB's API banking has an average response time of 100ms.
+      - question: |
+          How many integrated corporate clients does CINB's API banking serve?
+        answer: |
+          CINB's API banking serves over 1,000 integrated corporate clients.
+  - context: |
+      CINB's fraud detection system analyzes 100% of transactions in real-time, achieving 99.97% accuracy in fraud prevention, with AI models processing 15,000 transactions per second and maintaining a false positive rate of 0.001%.
+    questions_and_answers:
+      - question: |
+          What percentage of transactions does CINB's fraud detection system analyze in real-time?
+        answer: |
+          CINB's fraud detection system analyzes 100% of transactions in real-time.
+      - question: |
+          What is the accuracy rate of CINB's fraud prevention system?
+        answer: |
+          CINB's fraud prevention system achieves 99.97% accuracy.
+      - question: |
+          How many transactions per second can CINB's AI models process?
+        answer: |
+          CINB's AI models process 15,000 transactions per second.
+      - question: |
+          What is the false positive rate of CINB's fraud detection system?
+        answer: |
+          CINB's fraud detection system maintains a false positive rate of 0.001%.
+  - context: |
+      CINB's Saral users can transfer up to ₹50 lakhs per transaction with a daily limit of ₹2 crores.
+    questions_and_answers:
+      - question: |
+          What is the per-transaction limit for Saral users?
+        answer: |
+          Saral users can transfer up to ₹50 lakhs per transaction.
+      - question: |
+          What is the daily transaction limit for Saral users?
+        answer: |
+          Saral users have a daily limit of ₹2 crores.
+      - question: |
+          Which CINB product has a per-transaction limit of ₹50 lakhs?
+        answer: |
+          CINB's Saral product has a per-transaction limit of ₹50 lakhs.
 document_outline: |
   SBI Corporate Internet Banking (CINB) offers a comprehensive online banking solution with secure transactions, customizable user roles, and a variety of financial services for corporate customers.
 document:
   repo: https://github.com/sankapoo/taxonomy-knowledge-docs-cb.git
-  commit: af4cc8a4c21fb4917eaba779920ef3d1dcd90029
+  commit: a03e2a1d55d7f2864a96b140a9c8b4587ee8e314
   patterns:
     - corporate_internet_banking.md
     - corporate_internet_banking.pdf
